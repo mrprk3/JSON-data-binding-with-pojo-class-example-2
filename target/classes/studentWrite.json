@@ -1,0 +1,8 @@
+{
+  "name" : "Anil",
+  "address" : "Indore",
+  "phoneNo" : null,
+  "batch" : null,
+  "active" : false,
+  "isActive" : false
+}

@@ -1,0 +1,35 @@
+
+[
+{
+  "name" : "Anil",
+  "address" : "Indore",
+  "isActive":true,
+  "phoneNo":["9088764534","7867564356"],
+  "batch":{
+  			"batchName":"spring and hibernate",
+  			"trainer":"Abhilash"
+  	}
+},
+
+{
+  "name" : "Akash",
+  "address" : "Pune",
+  "isActive":true,
+  "phoneNo":["567896543","456789876543"],
+  "batch":{
+  			"batchName":"spring and hibernate",
+  			"trainer":"Abhilash"
+  	}
+},
+
+{
+  "name" : "Vickey",
+  "address" : "Delhi",
+  "isActive":true,
+  "phoneNo":["4567899876543","56789876543"],
+  "batch":{
+  			"batchName":"spring and hibernate",
+  			"trainer":"Abhilash"
+  	}
+}
+]
